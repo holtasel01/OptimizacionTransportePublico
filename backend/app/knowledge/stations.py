@@ -10,6 +10,8 @@
     L7: Macro Periferico
 """
 
+#Link del mapa de siteur: https://www.siteur.gob.mx/images/jal_red_siteur_mapa_movilidad_(1)-01.png
+
 stations = {
     
     "Periferico_Norte": {
